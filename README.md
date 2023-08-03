@@ -1,2 +1,11 @@
 # Clase4-introducion
-#  https://github.com/Shinukis23/Clase4-introducion.git
+
+
+### Integrantes
+
+- Juan Antonio Ortiz Delgado
+- Fernando Marcial Rondón Puma
+- Dave Juan Flores Curi
+- Eduardo Medrano
+- Jennifer Parra Jimenez
+- David Alejandro Ambrosio Anaya
